@@ -23,6 +23,9 @@ packages = {
     "plotnine": "plotnine",
     "bokeh": "Bokeh",
     "plotly": "plotly",
+    "cufflinks": "cufflinks",
+    "altair": "altair",
+    "pygal": "pygal",
     "ggplot": "ggplot2 (R)",
 }
 
